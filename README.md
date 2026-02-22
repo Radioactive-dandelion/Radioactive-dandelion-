@@ -14,7 +14,7 @@ Currently building backend systems with Python and FastAPI.
 - UI/UX Design Principles & User-Centered Design
 
 ## 🔗 Connect With Me
-- [LinkedIn](www.linkedin.com/in/polina-zimina-9618663b2)
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0S0S%2FH2BSVyHzg1a12KYRg%3D%3D)
 - [LeetCode](your-leetcode-url)
 - 📧 polina@zimins.net
 
