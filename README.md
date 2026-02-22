@@ -19,6 +19,5 @@ Currently building backend systems with Python and FastAPI.
 - 📧 polina@zimins.net
 
 ## 📌 Featured Projects
-- [Project Name](repo-link) — one sentence description
-- [Project Name](repo-link) — one sentence description
+- [online-shopping-website](https://github.com/Radioactive-dandelion/online-shopping-website) — A microservices-driven e-commerce web application for clothing retail with scalable architecture and modular backend services.
 ```
