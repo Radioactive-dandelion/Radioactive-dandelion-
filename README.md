@@ -15,7 +15,7 @@ Currently building backend systems with Python and FastAPI.
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B0S0S%2FH2BSVyHzg1a12KYRg%3D%3D)
-- [LeetCode](your-leetcode-url)
+- [LeetCode](https://leetcode.com/u/Radioactive-dandelion/)
 - 📧 polina@zimins.net
 
 ## 📌 Featured Projects
